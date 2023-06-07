@@ -1,0 +1,5 @@
+com/devtiro/lombok/domain/Author$AuthorBuilder.class
+com/devtiro/lombok/domain/Book.class
+com/devtiro/lombok/domain/Author.class
+com/devtiro/lombok/domain/Book$BookBuilder.class
+com/devtiro/lombok/App.class

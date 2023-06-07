@@ -1,0 +1,1451 @@
+[
+  {
+    "title": "The Enigma of Eternity",
+    "yearPublished": 2005,
+    "author": {
+      "givenName": "Aria",
+      "familyName": "Montgomery",
+      "age": 36
+    }
+  },
+  {
+    "title": "Echoes of the Past",
+    "yearPublished": 1982,
+    "author": {
+      "givenName": "Elijah",
+      "familyName": "Harrington",
+      "age": 72
+    }
+  },
+  {
+    "title": "The Forgotten Prophecy",
+    "yearPublished": 1999,
+    "author": {
+      "givenName": "Sophia",
+      "familyName": "Winters",
+      "age": 45
+    }
+  },
+  {
+    "title": "Shadows of Destiny",
+    "yearPublished": 2018,
+    "author": {
+      "givenName": "Lucas",
+      "familyName": "Sullivan",
+      "age": 52
+    }
+  },
+  {
+    "title": "The Secret Keepers",
+    "yearPublished": 1978,
+    "author": {
+      "givenName": "Amelia",
+      "familyName": "Anderson",
+      "age": 81
+    }
+  },
+  {
+    "title": "Whispering Shadows",
+    "yearPublished": 2011,
+    "author": {
+      "givenName": "Maxwell",
+      "familyName": "Ford",
+      "age": 30
+    }
+  },
+  {
+    "title": "The Timeless Odyssey",
+    "yearPublished": 1987,
+    "author": {
+      "givenName": "Olivia",
+      "familyName": "Thompson",
+      "age": 62
+    }
+  },
+  {
+    "title": "Realm of Illusions",
+    "yearPublished": 2001,
+    "author": {
+      "givenName": "Nathan",
+      "familyName": "Bennett",
+      "age": 40
+    }
+  },
+  {
+    "title": "The Vanishing Hero",
+    "yearPublished": 1992,
+    "author": {
+      "givenName": "Isabella",
+      "familyName": "Carter",
+      "age": 25
+    }
+  },
+  {
+    "title": "The Sapphire Crown",
+    "yearPublished": 1985,
+    "author": {
+      "givenName": "Benjamin",
+      "familyName": "Gibson",
+      "age": 59
+    }
+  },
+  {
+    "title": "The Labyrinth of Lies",
+    "yearPublished": 1980,
+    "author": {
+      "givenName": "Sophie",
+      "familyName": "Harrison",
+      "age": 49
+    }
+  },
+  {
+    "title": "The Whispers in the Wind",
+    "yearPublished": 2013,
+    "author": {
+      "givenName": "Caleb",
+      "familyName": "Russell",
+      "age": 47
+    }
+  },
+  {
+    "title": "The Forbidden Tome",
+    "yearPublished": 2009,
+    "author": {
+      "givenName": "Hannah",
+      "familyName": "Reynolds",
+      "age": 28
+    }
+  },
+  {
+    "title": "Dreams of the Void",
+    "yearPublished": 2015,
+    "author": {
+      "givenName": "Gabriel",
+      "familyName": "Hawkins",
+      "age": 33
+    }
+  },
+  {
+    "title": "The Cursed Amulet",
+    "yearPublished": 2003,
+    "author": {
+      "givenName": "Scarlett",
+      "familyName": "Larson",
+      "age": 39
+    }
+  },
+  {
+    "title": "The Crimson Crown",
+    "yearPublished": 1996,
+    "author": {
+      "givenName": "Samuel",
+      "familyName": "Fletcher",
+      "age": 48
+    }
+  },
+  {
+    "title": "Echoes of Destiny",
+    "yearPublished": 2017,
+    "author": {
+      "givenName": "Eva",
+      "familyName": "Baker",
+      "age": 53
+    }
+  },
+  {
+    "title": "The Shattered Kingdom",
+    "yearPublished": 1991,
+    "author": {
+      "givenName": "Liam",
+      "familyName": "Parker",
+      "age": 22
+    }
+  },
+  {
+    "title": "The Lost Chronicles",
+    "yearPublished": 1988,
+    "author": {
+      "givenName": "Emily",
+      "familyName": "Sullivan",
+      "age": 42
+    }
+  },
+  {
+    "title": "The Serpent's Kiss",
+    "yearPublished": 1973,
+    "author": {
+      "givenName": "William",
+      "familyName": "Mitchell",
+      "age": 90
+    }
+  },
+  {
+    "title": "The Midnight Sonata",
+    "yearPublished": 2004,
+    "author": {
+      "givenName": "Grace",
+      "familyName": "Hamilton",
+      "age": 32
+    }
+  },
+  {
+    "title": "The Cryptic Cipher",
+    "yearPublished": 2010,
+    "author": {
+      "givenName": "Jacob",
+      "familyName": "Wright",
+      "age": 37
+    }
+  },
+  {
+    "title": "The Whispering Shadows",
+    "yearPublished": 1975,
+    "author": {
+      "givenName": "Chloe",
+      "familyName": "Anderson",
+      "age": 64
+    }
+  },
+  {
+    "title": "The Oracle's Prophecy",
+    "yearPublished": 2006,
+    "author": {
+      "givenName": "Ethan",
+      "familyName": "Campbell",
+      "age": 50
+    }
+  },
+  {
+    "title": "The Secrets of Avalon",
+    "yearPublished": 1981,
+    "author": {
+      "givenName": "Sophia",
+      "familyName": "Murphy",
+      "age": 57
+    }
+  },
+  {
+    "title": "The Scarlet Blade",
+    "yearPublished": 2016,
+    "author": {
+      "givenName": "Noah",
+      "familyName": "Peterson",
+      "age": 29
+    }
+  },
+  {
+    "title": "The Forgotten Kingdom",
+    "yearPublished": 1976,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Bennett",
+      "age": 76
+    }
+  },
+  {
+    "title": "The Lost Heir",
+    "yearPublished": 2002,
+    "author": {
+      "givenName": "Daniel",
+      "familyName": "Harris",
+      "age": 31
+    }
+  },
+  {
+    "title": "The Relic Hunters",
+    "yearPublished": 1998,
+    "author": {
+      "givenName": "Mia",
+      "familyName": "Turner",
+      "age": 46
+    }
+  },
+  {
+    "title": "The Mysterious Manuscript",
+    "yearPublished": 1994,
+    "author": {
+      "givenName": "Benjamin",
+      "familyName": "Cooper",
+      "age": 66
+    }
+  },
+  {
+    "title": "The Last Voyage",
+    "yearPublished": 1989,
+    "author": {
+      "givenName": "Evelyn",
+      "familyName": "Ward",
+      "age": 55
+    }
+  },
+  {
+    "title": "The Elixir of Life",
+    "yearPublished": 1995,
+    "author": {
+      "givenName": "Logan",
+      "familyName": "Murphy",
+      "age": 38
+    }
+  },
+  {
+    "title": "The Vanishing Artifact",
+    "yearPublished": 2007,
+    "author": {
+      "givenName": "Lily",
+      "familyName": "Foster",
+      "age": 27
+    }
+  },
+  {
+    "title": "The Shadow's Embrace",
+    "yearPublished": 1984,
+    "author": {
+      "givenName": "Caleb",
+      "familyName": "Morgan",
+      "age": 61
+    }
+  },
+  {
+    "title": "The Mystic's Grimoire",
+    "yearPublished": 2012,
+    "author": {
+      "givenName": "Olivia",
+      "familyName": "Perry",
+      "age": 39
+    }
+  },
+  {
+    "title": "The Forgotten Empire",
+    "yearPublished": 2000,
+    "author": {
+      "givenName": "Jackson",
+      "familyName": "King",
+      "age": 43
+    }
+  },
+  {
+    "title": "The Crystal Rose",
+    "yearPublished": 1997,
+    "author": {
+      "givenName": "Emma",
+      "familyName": "Gibson",
+      "age": 44
+    }
+  },
+  {
+    "title": "The Whispers in the Dark",
+    "yearPublished": 1977,
+    "author": {
+      "givenName": "Aiden",
+      "familyName": "Hughes",
+      "age": 60
+    }
+  },
+  {
+    "title": "The Enchanted Forest",
+    "yearPublished": 2014,
+    "author": {
+      "givenName": "Mila",
+      "familyName": "Bryant",
+      "age": 34
+    }
+  },
+  {
+    "title": "The Book of Shadows",
+    "yearPublished": 1983,
+    "author": {
+      "givenName": "Ryan",
+      "familyName": "Sullivan",
+      "age": 57
+    }
+  },
+  {
+    "title": "The Phantom's Curse",
+    "yearPublished": 1993,
+    "author": {
+      "givenName": "Chloe",
+      "familyName": "Reynolds",
+      "age": 25
+    }
+  },
+  {
+    "title": "The Lost City",
+    "yearPublished": 2008,
+    "author": {
+      "givenName": "Grayson",
+      "familyName": "Wright",
+      "age": 32
+    }
+  },
+  {
+    "title": "The Maze of Mirrors",
+    "yearPublished": 1990,
+    "author": {
+      "givenName": "Aurora",
+      "familyName": "Morgan",
+      "age": 47
+    }
+  },
+  {
+    "title": "The Alchemist's Legacy",
+    "yearPublished": 2006,
+    "author": {
+      "givenName": "Liam",
+      "familyName": "Harrison",
+      "age": 41
+    }
+  },
+  {
+    "title": "The Crimson Serpent",
+    "yearPublished": 1986,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Hamilton",
+      "age": 63
+    }
+  },
+  {
+    "title": "The Forbidden Kingdom",
+    "yearPublished": 2003,
+    "author": {
+      "givenName": "Ethan",
+      "familyName": "Anderson",
+      "age": 35
+    }
+  },
+  {
+    "title": "The Haunting of Hillcrest Manor",
+    "yearPublished": 1987,
+    "author": {
+      "givenName": "Harper",
+      "familyName": "Carter",
+      "age": 53
+    }
+  },
+  {
+    "title": "The Labyrinth of Dreams",
+    "yearPublished": 1979,
+    "author": {
+      "givenName": "Sophia",
+      "familyName": "Campbell",
+      "age": 61
+    }
+  },
+  {
+    "title": "The Forgotten Prophecy",
+    "yearPublished": 2011,
+    "author": {
+      "givenName": "Jacob",
+      "familyName": "Peterson",
+      "age": 48
+    }
+  },
+  {
+    "title": "The Shadow's Whisper",
+    "yearPublished": 1981,
+    "author": {
+      "givenName": "Olivia",
+      "familyName": "Turner",
+      "age": 60
+    }
+  },
+  {
+    "title": "The Sorcerer's Stone",
+    "yearPublished": 2017,
+    "author": {
+      "givenName": "Noah",
+      "familyName": "Murphy",
+      "age": 29
+    }
+  },
+  {
+    "title": "The Shattered Crown",
+    "yearPublished": 1992,
+    "author": {
+      "givenName": "Lily",
+      "familyName": "Sullivan",
+      "age": 43
+    }
+  },
+  {
+    "title": "The Cursed Artifact",
+    "yearPublished": 2009,
+    "author": {
+      "givenName": "Logan",
+      "familyName": "Baker",
+      "age": 35
+    }
+  },
+  {
+    "title": "The Whispering Shadows",
+    "yearPublished": 1974,
+    "author": {
+      "givenName": "Elijah",
+      "familyName": "Mitchell",
+      "age": 67
+    }
+  },
+  {
+    "title": "The Lost Prophecy",
+    "yearPublished": 2007,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Ward",
+      "age": 38
+    }
+  },
+  {
+    "title": "The Secrets of Avalon",
+    "yearPublished": 1980,
+    "author": {
+      "givenName": "Ethan",
+      "familyName": "Perry",
+      "age": 57
+    }
+  },
+  {
+    "title": "The Crimson Rose",
+    "yearPublished": 2013,
+    "author": {
+      "givenName": "Chloe",
+      "familyName": "King",
+      "age": 31
+    }
+  },
+  {
+    "title": "The Vanishing Kingdom",
+    "yearPublished": 1975,
+    "author": {
+      "givenName": "Daniel",
+      "familyName": "Gibson",
+      "age": 70
+    }
+  },
+  {
+    "title": "The Forgotten Heir",
+    "yearPublished": 2001,
+    "author": {
+      "givenName": "Emma",
+      "familyName": "Reynolds",
+      "age": 43
+    }
+  },
+  {
+    "title": "The Relic Seekers",
+    "yearPublished": 1999,
+    "author": {
+      "givenName": "Caleb",
+      "familyName": "Wright",
+      "age": 39
+    }
+  },
+  {
+    "title": "The Mysterious Manuscript",
+    "yearPublished": 1993,
+    "author": {
+      "givenName": "Mia",
+      "familyName": "Anderson",
+      "age": 38
+    }
+  },
+  {
+    "title": "The Last Voyage",
+    "yearPublished": 1988,
+    "author": {
+      "givenName": "Grayson",
+      "familyName": "Sullivan",
+      "age": 54
+    }
+  },
+  {
+    "title": "The Elixir of Immortality",
+    "yearPublished": 1994,
+    "author": {
+      "givenName": "Lily",
+      "familyName": "Foster",
+      "age": 33
+    }
+  },
+  {
+    "title": "The Vanishing Artifact",
+    "yearPublished": 2006,
+    "author": {
+      "givenName": "Mila",
+      "familyName": "Morgan",
+      "age": 35
+    }
+  },
+  {
+    "title": "The Shadow's Embrace",
+    "yearPublished": 1983,
+    "author": {
+      "givenName": "Elijah",
+      "familyName": "Hamilton",
+      "age": 62
+    }
+  },
+  {
+    "title": "The Mystic's Grimoire",
+    "yearPublished": 2010,
+    "author": {
+      "givenName": "Sophia",
+      "familyName": "Murphy",
+      "age": 42
+    }
+  },
+  {
+    "title": "The Forgotten Empire",
+    "yearPublished": 2002,
+    "author": {
+      "givenName": "Jacob",
+      "familyName": "Baker",
+      "age": 37
+    }
+  },
+  {
+    "title": "The Crystal Rose",
+    "yearPublished": 1998,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Turner",
+      "age": 45
+    }
+  },
+  {
+    "title": "The Whispers in the Dark",
+    "yearPublished": 1978,
+    "author": {
+      "givenName": "Liam",
+      "familyName": "Mitchell",
+      "age": 65
+    }
+  },
+  {
+    "title": "The Enchanted Forest",
+    "yearPublished": 2015,
+    "author": {
+      "givenName": "Emma",
+      "familyName": "Campbell",
+      "age": 36
+    }
+  },
+  {
+    "title": "The Book of Shadows",
+    "yearPublished": 1982,
+    "author": {
+      "givenName": "Chloe",
+      "familyName": "Peterson",
+      "age": 55
+    }
+  },
+  {
+    "title": "The Phantom's Curse",
+    "yearPublished": 1992,
+    "author": {
+      "givenName": "Noah",
+      "familyName": "Ward",
+      "age": 28
+    }
+  },
+  {
+    "title": "The Lost City",
+    "yearPublished": 2009,
+    "author": {
+      "givenName": "Logan",
+      "familyName": "King",
+      "age": 33
+    }
+  },
+  {
+    "title": "The Maze of Mirrors",
+    "yearPublished": 1991,
+    "author": {
+      "givenName": "Aurora",
+      "familyName": "Gibson",
+      "age": 48
+    }
+  },
+  {
+    "title": "The Alchemist's Legacy",
+    "yearPublished": 2007,
+    "author": {
+      "givenName": "Liam",
+      "familyName": "Harrison",
+      "age": 40
+    }
+  },
+  {
+    "title": "The Crimson Serpent",
+    "yearPublished": 1985,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Hamilton",
+      "age": 62
+    }
+  },
+  {
+    "title": "The Forbidden Kingdom",
+    "yearPublished": 2004,
+    "author": {
+      "givenName": "Ethan",
+      "familyName": "Anderson",
+      "age": 34
+    }
+  },
+  {
+    "title": "The Haunting of Hillcrest Manor",
+    "yearPublished": 1986,
+    "author": {
+      "givenName": "Harper",
+      "familyName": "Carter",
+      "age": 52
+    }
+  },
+  {
+    "title": "The Labyrinth of Dreams",
+    "yearPublished": 1980,
+    "author": {
+      "givenName": "Sophia",
+      "familyName": "Campbell",
+      "age": 60
+    }
+  },
+  {
+    "title": "The Forgotten Prophecy",
+    "yearPublished": 2012,
+    "author": {
+      "givenName": "Jacob",
+      "familyName": "Peterson",
+      "age": 47
+    }
+  },
+  {
+    "title": "The Shadow's Whisper",
+    "yearPublished": 1982,
+    "author": {
+      "givenName": "Olivia",
+      "familyName": "Turner",
+      "age": 59
+    }
+  },
+  {
+    "title": "The Sorcerer's Stone",
+    "yearPublished": 2018,
+    "author": {
+      "givenName": "Noah",
+      "familyName": "Murphy",
+      "age": 30
+    }
+  },
+  {
+    "title": "The Shattered Crown",
+    "yearPublished": 1993,
+    "author": {
+      "givenName": "Lily",
+      "familyName": "Sullivan",
+      "age": 42
+    }
+  },
+  {
+    "title": "The Cursed Artifact",
+    "yearPublished": 2010,
+    "author": {
+      "givenName": "Logan",
+      "familyName": "Baker",
+      "age": 36
+    }
+  },
+  {
+    "title": "The Whispering Shadows",
+    "yearPublished": 1976,
+    "author": {
+      "givenName": "Elijah",
+      "familyName": "Mitchell",
+      "age": 66
+    }
+  },
+  {
+    "title": "The Lost Prophecy",
+    "yearPublished": 2008,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Ward",
+      "age": 37
+    }
+  },
+  {
+    "title": "The Secrets of Avalon",
+    "yearPublished": 1981,
+    "author": {
+      "givenName": "Ethan",
+      "familyName": "Perry",
+      "age": 58
+    }
+  },
+  {
+    "title": "The Crimson Rose",
+    "yearPublished": 2014,
+    "author": {
+      "givenName": "Chloe",
+      "familyName": "King",
+      "age": 32
+    }
+  },
+  {
+    "title": "The Vanishing Kingdom",
+    "yearPublished": 1976,
+    "author": {
+      "givenName": "Daniel",
+      "familyName": "Gibson",
+      "age": 71
+    }
+  },
+  {
+    "title": "The Forgotten Heir",
+    "yearPublished": 2002,
+    "author": {
+      "givenName": "Emma",
+      "familyName": "Reynolds",
+      "age": 44
+    }
+  },
+  {
+    "title": "The Relic Seekers",
+    "yearPublished": 2000,
+    "author": {
+      "givenName": "Caleb",
+      "familyName": "Wright",
+      "age": 40
+    }
+  },
+  {
+    "title": "The Mysterious Manuscript",
+    "yearPublished": 1992,
+    "author": {
+      "givenName": "Mia",
+      "familyName": "Anderson",
+      "age": 37
+    }
+  },
+  {
+    "title": "The Last Voyage",
+    "yearPublished": 1987,
+    "author": {
+      "givenName": "Grayson",
+      "familyName": "Sullivan",
+      "age": 53
+    }
+  },
+  {
+    "title": "The Elixir of Immortality",
+    "yearPublished": 1995,
+    "author": {
+      "givenName": "Lily",
+      "familyName": "Foster",
+      "age": 34
+    }
+  },
+  {
+    "title": "The Vanishing Artifact",
+    "yearPublished": 2005,
+    "author": {
+      "givenName": "Mila",
+      "familyName": "Morgan",
+      "age": 34
+    }
+  },
+  {
+    "title": "The Shadow's Embrace",
+    "yearPublished": 1982,
+    "author": {
+      "givenName": "Elijah",
+      "familyName": "Hamilton",
+      "age": 61
+    }
+  },
+  {
+    "title": "The Mystic's Grimoire",
+    "yearPublished": 2009,
+    "author": {
+      "givenName": "Sophia",
+      "familyName": "Murphy",
+      "age": 41
+    }
+  },
+  {
+    "title": "The Forgotten Empire",
+    "yearPublished": 2001,
+    "author": {
+      "givenName": "Jacob",
+      "familyName": "Baker",
+      "age": 38
+    }
+  },
+  {
+    "title": "The Crystal Rose",
+    "yearPublished": 1999,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Turner",
+      "age": 46
+    }
+  },
+  {
+    "title": "The Whispers in the Dark",
+    "yearPublished": 1977,
+    "author": {
+      "givenName": "Liam",
+      "familyName": "Mitchell",
+      "age": 64
+    }
+  },
+  {
+    "title": "The Enchanted Forest",
+    "yearPublished": 2016,
+    "author": {
+      "givenName": "Emma",
+      "familyName": "Campbell",
+      "age": 37
+    }
+  },
+  {
+    "title": "The Book of Shadows",
+    "yearPublished": 1983,
+    "author": {
+      "givenName": "Chloe",
+      "familyName": "Peterson",
+      "age": 56
+    }
+  },
+  {
+    "title": "The Phantom's Curse",
+    "yearPublished": 1991,
+    "author": {
+      "givenName": "Noah",
+      "familyName": "Ward",
+      "age": 27
+    }
+  },
+  {
+    "title": "The Lost City",
+    "yearPublished": 2010,
+    "author": {
+      "givenName": "Logan",
+      "familyName": "King",
+      "age": 32
+    }
+  },
+  {
+    "title": "The Maze of Mirrors",
+    "yearPublished": 1992,
+    "author": {
+      "givenName": "Aurora",
+      "familyName": "Gibson",
+      "age": 49
+    }
+  },
+  {
+    "title": "The Alchemist's Legacy",
+    "yearPublished": 2008,
+    "author": {
+      "givenName": "Liam",
+      "familyName": "Harrison",
+      "age": 39
+    }
+  },
+  {
+    "title": "The Crimson Serpent",
+    "yearPublished": 1984,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Hamilton",
+      "age": 61
+    }
+  },
+  {
+    "title": "The Forbidden Kingdom",
+    "yearPublished": 2005,
+    "author": {
+      "givenName": "Ethan",
+      "familyName": "Anderson",
+      "age": 33
+    }
+  },
+  {
+    "title": "The Haunting of Hillcrest Manor",
+    "yearPublished": 1985,
+    "author": {
+      "givenName": "Harper",
+      "familyName": "Carter",
+      "age": 51
+    }
+  },
+  {
+    "title": "The Labyrinth of Dreams",
+    "yearPublished": 1981,
+    "author": {
+      "givenName": "Sophia",
+      "familyName": "Campbell",
+      "age": 59
+    }
+  },
+  {
+    "title": "The Forgotten Prophecy",
+    "yearPublished": 2013,
+    "author": {
+      "givenName": "Jacob",
+      "familyName": "Peterson",
+      "age": 46
+    }
+  },
+  {
+    "title": "The Shadow's Whisper",
+    "yearPublished": 1983,
+    "author": {
+      "givenName": "Olivia",
+      "familyName": "Turner",
+      "age": 58
+    }
+  },
+  {
+    "title": "The Sorcerer's Stone",
+    "yearPublished": 2019,
+    "author": {
+      "givenName": "Noah",
+      "familyName": "Murphy",
+      "age": 31
+    }
+  },
+  {
+    "title": "The Shattered Crown",
+    "yearPublished": 1994,
+    "author": {
+      "givenName": "Lily",
+      "familyName": "Sullivan",
+      "age": 41
+    }
+  },
+  {
+    "title": "The Cursed Artifact",
+    "yearPublished": 2011,
+    "author": {
+      "givenName": "Logan",
+      "familyName": "Baker",
+      "age": 35
+    }
+  },
+  {
+    "title": "The Whispering Shadows",
+    "yearPublished": 1975,
+    "author": {
+      "givenName": "Elijah",
+      "familyName": "Mitchell",
+      "age": 65
+    }
+  },
+  {
+    "title": "The Lost Prophecy",
+    "yearPublished": 2009,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Ward",
+      "age": 38
+    }
+  },
+  {
+    "title": "The Secrets of Avalon",
+    "yearPublished": 1980,
+    "author": {
+      "givenName": "Ethan",
+      "familyName": "Perry",
+      "age": 57
+    }
+  },
+  {
+    "title": "The Crimson Rose",
+    "yearPublished": 2015,
+    "author": {
+      "givenName": "Chloe",
+      "familyName": "King",
+      "age": 33
+    }
+  },
+  {
+    "title": "The Vanishing Kingdom",
+    "yearPublished": 1977,
+    "author": {
+      "givenName": "Daniel",
+      "familyName": "Gibson",
+      "age": 72
+    }
+  },
+  {
+    "title": "The Forgotten Heir",
+    "yearPublished": 2003,
+    "author": {
+      "givenName": "Emma",
+      "familyName": "Reynolds",
+      "age": 45
+    }
+  },
+  {
+    "title": "The Relic Seekers",
+    "yearPublished": 2001,
+    "author": {
+      "givenName": "Caleb",
+      "familyName": "Wright",
+      "age": 41
+    }
+  },
+  {
+    "title": "The Mysterious Manuscript",
+    "yearPublished": 1991,
+    "author": {
+      "givenName": "Mia",
+      "familyName": "Anderson",
+      "age": 36
+    }
+  },
+  {
+    "title": "The Last Voyage",
+    "yearPublished": 1986,
+    "author": {
+      "givenName": "Grayson",
+      "familyName": "Sullivan",
+      "age": 52
+    }
+  },
+  {
+    "title": "The Elixir of Immortality",
+    "yearPublished": 1996,
+    "author": {
+      "givenName": "Lily",
+      "familyName": "Foster",
+      "age": 35
+    }
+  },
+  {
+    "title": "The Vanishing Artifact",
+    "yearPublished": 2004,
+    "author": {
+      "givenName": "Mila",
+      "familyName": "Morgan",
+      "age": 33
+    }
+  },
+  {
+    "title": "The Shadow's Embrace",
+    "yearPublished": 1981,
+    "author": {
+      "givenName": "Elijah",
+      "familyName": "Hamilton",
+      "age": 60
+    }
+  },
+  {
+    "title": "The Mystic's Grimoire",
+    "yearPublished": 2010,
+    "author": {
+      "givenName": "Sophia",
+      "familyName": "Murphy",
+      "age": 42
+    }
+  },
+  {
+    "title": "The Forgotten Empire",
+    "yearPublished": 2002,
+    "author": {
+      "givenName": "Jacob",
+      "familyName": "Baker",
+      "age": 39
+    }
+  },
+  {
+    "title": "The Crystal Rose",
+    "yearPublished": 2000,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Turner",
+      "age": 47
+    }
+  },
+  {
+    "title": "The Whispers in the Dark",
+    "yearPublished": 1978,
+    "author": {
+      "givenName": "Liam",
+      "familyName": "Mitchell",
+      "age": 63
+    }
+  },
+  {
+    "title": "The Enchanted Forest",
+    "yearPublished": 2017,
+    "author": {
+      "givenName": "Emma",
+      "familyName": "Campbell",
+      "age": 38
+    }
+  },
+  {
+    "title": "The Book of Shadows",
+    "yearPublished": 1984,
+    "author": {
+      "givenName": "Chloe",
+      "familyName": "Peterson",
+      "age": 57
+    }
+  },
+  {
+    "title": "The Phantom's Curse",
+    "yearPublished": 1990,
+    "author": {
+      "givenName": "Noah",
+      "familyName": "Ward",
+      "age": 26
+    }
+  },
+  {
+    "title": "The Lost City",
+    "yearPublished": 2011,
+    "author": {
+      "givenName": "Logan",
+      "familyName": "King",
+      "age": 31
+    }
+  },
+  {
+    "title": "The Maze of Mirrors",
+    "yearPublished": 1990,
+    "author": {
+      "givenName": "Aurora",
+      "familyName": "Gibson",
+      "age": 50
+    }
+  },
+  {
+    "title": "The Alchemist's Legacy",
+    "yearPublished": 2009,
+    "author": {
+      "givenName": "Liam",
+      "familyName": "Harrison",
+      "age": 38
+    }
+  },
+  {
+    "title": "The Crimson Serpent",
+    "yearPublished": 1983,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Hamilton",
+      "age": 60
+    }
+  },
+  {
+    "title": "The Forbidden Kingdom",
+    "yearPublished": 2006,
+    "author": {
+      "givenName": "Ethan",
+      "familyName": "Anderson",
+      "age": 32
+    }
+  },
+  {
+    "title": "The Haunting of Hillcrest Manor",
+    "yearPublished": 1984,
+    "author": {
+      "givenName": "Harper",
+      "familyName": "Carter",
+      "age": 50
+    }
+  },
+  {
+    "title": "The Labyrinth of Dreams",
+    "yearPublished": 1982,
+    "author": {
+      "givenName": "Sophia",
+      "familyName": "Campbell",
+      "age": 58
+    }
+  },
+  {
+    "title": "The Forgotten Prophecy",
+    "yearPublished": 2014,
+    "author": {
+      "givenName": "Jacob",
+      "familyName": "Peterson",
+      "age": 45
+    }
+  },
+  {
+    "title": "The Shadow's Whisper",
+    "yearPublished": 1984,
+    "author": {
+      "givenName": "Olivia",
+      "familyName": "Turner",
+      "age": 57
+    }
+  },
+  {
+    "title": "The Sorcerer's Stone",
+    "yearPublished": 2020,
+    "author": {
+      "givenName": "Noah",
+      "familyName": "Murphy",
+      "age": 32
+    }
+  },
+  {
+    "title": "The Shattered Crown",
+    "yearPublished": 1995,
+    "author": {
+      "givenName": "Lily",
+      "familyName": "Sullivan",
+      "age": 42
+    }
+  },
+  {
+    "title": "The Cursed Artifact",
+    "yearPublished": 2012,
+    "author": {
+      "givenName": "Logan",
+      "familyName": "Baker",
+      "age": 36
+    }
+  },
+  {
+    "title": "The Whispering Shadows",
+    "yearPublished": 1976,
+    "author": {
+      "givenName": "Elijah",
+      "familyName": "Mitchell",
+      "age": 64
+    }
+  },
+  {
+    "title": "The Lost Prophecy",
+    "yearPublished": 2010,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Ward",
+      "age": 39
+    }
+  },
+  {
+    "title": "The Secrets of Avalon",
+    "yearPublished": 1979,
+    "author": {
+      "givenName": "Ethan",
+      "familyName": "Perry",
+      "age": 56
+    }
+  },
+  {
+    "title": "The Crimson Rose",
+    "yearPublished": 2016,
+    "author": {
+      "givenName": "Chloe",
+      "familyName": "King",
+      "age": 34
+    }
+  },
+  {
+    "title": "The Vanishing Kingdom",
+    "yearPublished": 1978,
+    "author": {
+      "givenName": "Daniel",
+      "familyName": "Gibson",
+      "age": 73
+    }
+  },
+  {
+    "title": "The Forgotten Heir",
+    "yearPublished": 2004,
+    "author": {
+      "givenName": "Emma",
+      "familyName": "Reynolds",
+      "age": 46
+    }
+  },
+  {
+    "title": "The Relic Seekers",
+    "yearPublished": 2002,
+    "author": {
+      "givenName": "Caleb",
+      "familyName": "Wright",
+      "age": 42
+    }
+  },
+  {
+    "title": "The Mysterious Manuscript",
+    "yearPublished": 1992,
+    "author": {
+      "givenName": "Mia",
+      "familyName": "Anderson",
+      "age": 37
+    }
+  },
+  {
+    "title": "The Last Voyage",
+    "yearPublished": 1987,
+    "author": {
+      "givenName": "Grayson",
+      "familyName": "Sullivan",
+      "age": 53
+    }
+  },
+  {
+    "title": "The Elixir of Immortality",
+    "yearPublished": 1997,
+    "author": {
+      "givenName": "Lily",
+      "familyName": "Foster",
+      "age": 36
+    }
+  },
+  {
+    "title": "The Vanishing Artifact",
+    "yearPublished": 2005,
+    "author": {
+      "givenName": "Mila",
+      "familyName": "Morgan",
+      "age": 34
+    }
+  },
+  {
+    "title": "The Shadow's Embrace",
+    "yearPublished": 1982,
+    "author": {
+      "givenName": "Elijah",
+      "familyName": "Hamilton",
+      "age": 61
+    }
+  },
+  {
+    "title": "The Mystic's Grimoire",
+    "yearPublished": 2011,
+    "author": {
+      "givenName": "Sophia",
+      "familyName": "Murphy",
+      "age": 43
+    }
+  },
+  {
+    "title": "The Forgotten Empire",
+    "yearPublished": 2003,
+    "author": {
+      "givenName": "Jacob",
+      "familyName": "Baker",
+      "age": 40
+    }
+  },
+  {
+    "title": "The Crystal Rose",
+    "yearPublished": 2001,
+    "author": {
+      "givenName": "Ava",
+      "familyName": "Turner",
+      "age": 48
+    }
+  }
+]

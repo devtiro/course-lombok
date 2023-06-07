@@ -1,1 +1,1 @@
-# course-lombok
+# Devtiro's Lombok Masterclass
